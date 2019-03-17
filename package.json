@@ -1,0 +1,23 @@
+{
+  "name": "ipa-edict-mapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilmoreg/ipa-edict-mapping.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gilmoreg/ipa-edict-mapping/issues"
+  },
+  "homepage": "https://github.com/gilmoreg/ipa-edict-mapping#readme",
+  "dependencies": {
+    "csv": "^5.1.1",
+    "mongodb": "^3.1.13"
+  }
+}
